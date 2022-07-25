@@ -1,11 +1,13 @@
 # Ping-Ping
-## SEASON 1
+## SEASON 2
 
 
 |*NAME*|*WIN*|*LOSS*|*T W*|*T L*|
-|:-----|:----|:-----|:----|:----|
-|Matias|3|3|0|0|
-|Sevada|3|14|0|1|
-|Marcos|12|2|1|0|
+|:-----:|----:|-----:|----:|----:|
+|Matias|18|7|4|0|
+|Sevada|12|34|0|6|
+|Marcos|20|6|2|0|
+|Patrick|0|2|0|0|
+|Avinash|1|3|0|0|
 
 ### Results: Marcos Wins
